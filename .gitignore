@@ -1,0 +1,9 @@
+/build/
+.gradle/
+.settings
+.github
+deploy.cmd
+
+# IntelliJ IDEA
+.idea/
+*.iml
